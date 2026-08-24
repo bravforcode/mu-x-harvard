@@ -10,7 +10,7 @@
 
 ### Demo
 
-![Demo](https://via.placeholder.com/1280x640/0f172a/38bdf8?text=Hospital+Wayfinding+Demo+—+Add+docs/demo.gif)
+> 🎬 **Demo coming soon** — screen capture will be added at `docs/demo.gif`
 
 ### Context
 
